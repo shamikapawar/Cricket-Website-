@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(45deg #023E8A, #0077B6, #90E0EF, #CAF0F8);
+  font-family: 'DM Sans', sans-serif !important;
+}
+
+
+
+.sticky-sidebar {
+  position: sticky;
+  top: 20px; /* Adjust this value as needed */
+}
